@@ -25,6 +25,9 @@
   	"chrome-debugging-client": "^0.4.4"
   },
   "license": "MIT",
+  "devDependencies": {
+    "chrome-debugging-client": "^0.4.4"
+  },
   "bugs": {
     "url": "https://github.com/karansapolia/v8codecov/issues"
   },
