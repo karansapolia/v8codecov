@@ -11,4 +11,4 @@ require('chrome-debugging-client');
 codecov('https://news.ycombinator.com');
 ```
 
-> Note: chrome-debugging-client NPM package required
+>Update! (10th Feb, 2018) : Functioning correctly now. Dependency issue resolved.
