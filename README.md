@@ -12,3 +12,5 @@ codecov('https://news.ycombinator.com');
 ```
 
 >Update! (10th Feb, 2018) : Functioning correctly now. Dependency issue resolved.
+
+>Issues and PRs welcome 🤗(on Github).
