@@ -1,6 +1,6 @@
 {
   "name": "v8codecov",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "V8 Code Coverage json / object outputs for CSS and JS (soon). This helps you receive the V8 Code Coverage objects from Chrome/Chromium DevTools, which are only viewable in the DevTools window, as of Chrome 63. This package allows you to work on those extracted CSS usage objects. Suggested usage: Performance analytics for webpages/ PWAs.",
   "main": "cssCov.js",
   "scripts": {
@@ -21,6 +21,9 @@
     "Analytics"
   ],
   "author": "Karan Sapolia sapoliakaran@gmail.com",
+  "dependencies": {
+  	"chrome-debugging-client": "^0.4.4"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/karansapolia/v8codecov/issues"
