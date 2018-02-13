@@ -7,7 +7,6 @@ _v8codecov is a tool to extract JSON Objects for V8 Code Coverage for JS and CSS
 ## Example usage
 ```javascript
 var codecov = require('v8codecov');
-require('chrome-debugging-client');
 codecov('https://news.ycombinator.com');
 ```
 
